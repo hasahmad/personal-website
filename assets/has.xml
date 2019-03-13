@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Say voice="alice">Hi! You have registered for the Muhammad, The Truth Unveiled event!</Say>
-    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
-</Response>
