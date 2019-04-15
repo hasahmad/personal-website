@@ -21,10 +21,14 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     forks: true
     projects:
+      eFoods
+      TicTacToe
+      EECS3311Project
+      SnakesAndLadders
     # - repo-name
 
 # social_media:
