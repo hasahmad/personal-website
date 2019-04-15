@@ -25,10 +25,10 @@ projects:
   exclude:
     forks: true
     projects:
-      eFoods
-      TicTacToe
-      EECS3311Project
-      SnakesAndLadders
+      - eFoods
+      - TicTacToe
+      - EECS3311Project
+      - SnakesAndLadders
     # - repo-name
 
 # social_media:
